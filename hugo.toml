@@ -1,4 +1,4 @@
-baseURL = 'https://shubhangi.github.io/website/'
+baseURL = 'https://shubhangibw.github.io/website/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugocoder'
